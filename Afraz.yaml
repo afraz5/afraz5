@@ -39,8 +39,8 @@ proxies:
   - {name: GER 🇩🇪 Nurenberg 2, server: 95.111.255.56, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Wh9NryUjBiKu, udp: true}
   - {name: SWN 🇸🇪 Stockholm 2 new, server: 185.243.215.187, port: 50003, type: ss, cipher: aes-256-cfb, password: 8460400130}
   - {name: Fin 🇫🇮 Helsinki 2, server: 188.126.89.174, port: 8389, type: ss, cipher: CHACHA20-IETF-POLY1305, password: SkGJxCjsuc8DJsB2GtM4, udp: true}
-  - {name: socksyou, server: 78.157.36.83, port: 1080, type: socks5, username: , password: , udp: true, https: true, skip-cert-verify: true }  
-  - {name: socks NO UDP, server: 78.157.36.83, port: 1080, type: socks5, username: , password: , udp: false, https: true, skip-cert-verify: true }  
+  - {name: socksyou, server: 78.157.36.83, port: 1080, type: socks5, username: test1, password: 6000, udp: true, https: true, skip-cert-verify: true }  
+  - {name: socks NO UDP, server: 78.157.36.83, port: 1080, type: socks5, username: test1, password: 6000, udp: false, https: true, skip-cert-verify: true }  
   
 proxy-groups:
   - name: 🔰 socks & Socksyou
