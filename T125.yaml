@@ -1,0 +1,178 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - tls://dns.google:853
+    - https://dns.google/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.adguard.com/dns-query
+    - https://dnsforge.de/dns-query
+    - https://dns.quad9.net/dns-query
+  fallback:
+    - tls://dns.google:853
+    - https://dns.google/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.adguard.com/dns-query
+    - https://dnsforge.de/dns-query
+    - https://dns.quad9.net/dns-query
+proxies:
+  - {name: AZR 🇦🇿 Baku1, server: 94.20.154.26,  port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: FRA 🇫🇷 France, server:  135.125.248.215,  port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: GER 🇩🇪 Frankfurt, server: 161.97.64.216, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mW2FOmI6XYZ0, udp: true}
+  - {name: ITA 🇮🇹 Milan 1, server: 95.174.23.218,  port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: LUX 🇱🇺 Luxembourg, server: 172.255.248.35, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: AUS 🇦🇺 Seydny, server: 66.203.112.53,  port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: NOR 🇳🇴 Oslo, server: 46.29.219.246, port: 2376, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: TUR 🇹🇷 Istanbul, server: 185.17.113.234,  port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: faBAoD54k87UJG7, udp: true}
+  - {name: UAE 🇦🇪 Dubai, server: 192.121.87.89,  port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: UK 🇬🇧 London new, server: 172.99.190.90, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: USA 🇺🇲 Virginia, server: 213.174.129.4, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: GER 🇩🇪 Nurenberg 2, server: 95.111.255.56, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Wh9NryUjBiKu, udp: true}
+  - {name: SWN 🇸🇪 Stockholm 2 new, server: 185.243.215.187, port: 50003, type: ss, cipher: aes-256-cfb, password: 8460400130}
+  - {name: Fin 🇫🇮 Helsinki 2, server: 188.126.89.174, port: 8389, type: ss, cipher: CHACHA20-IETF-POLY1305, password: SkGJxCjsuc8DJsB2GtM4, udp: true}
+  - {name: socksyou, server: 78.157.36.83, port: 1080, type: socks5, username: t125, password: 1000, udp: true, https: true, skip-cert-verify: true }  
+  - {name: socks NO UDP, server: 78.157.36.83, port: 1080, type: socks5, username: t125, password: 1000, udp: false, https: true, skip-cert-verify: true }  
+  
+proxy-groups:
+  - name: 🔰 socks & Socksyou
+    type: select
+    proxies:
+      - AZR 🇦🇿 Baku1
+      - FRA 🇫🇷 France
+      - GER 🇩🇪 Frankfurt
+      - ITA 🇮🇹 Milan 1
+      - LUX 🇱🇺 Luxembourg
+      - AUS 🇦🇺 Seydny
+      - NOR 🇳🇴 Oslo
+      - TUR 🇹🇷 Istanbul
+      - UAE 🇦🇪 Dubai
+      - UK 🇬🇧 London new
+      - USA 🇺🇲 Virginia
+      - GER 🇩🇪 Nurenberg 2
+      - SWN 🇸🇪 Stockholm 2 new
+      - Fin 🇫🇮 Helsinki 2
+      - socksyou
+      - socks NO UDP
+      - Nim-ITA 🇮🇹 Milan 1
+      - Nim-GER 🇩🇪 Frankfurt
+      - Nim-USA 🇺🇲 Virginia
+      - Nim-FRA 🇫🇷 France
+      - Nim-LUX 🇱🇺 Luxembourg
+      - Nim-Fin 🇫🇮 Helsinki 2
+      - Nim-SWN 🇸🇪 Stockholm 2 new
+      - Nim-UAE 🇦🇪 Dubai
+      - Nim-AZR 🇦🇿 Baku1
+      - Nim-AUS 🇦🇺 Seydny
+      - Nim-GER 🇩🇪 Nurenberg 2
+      - Nim-NOR 🇳🇴 Oslo
+      - Nim-UK 🇬🇧 London new
+      - Nim-TUR 🇹🇷 Istanbul
+      - Nim-AZR 🇦🇿 BaNO udp
+      - Nim-UAE 🇦🇪 DuNO udp
+      - Nim-TUR 🇹🇷 IsNO udp
+      - Nim-GER 🇩🇪 FrNO udp
+      - Nim-ITA 🇮🇹 MilNO udp
+  - name: "Nim-ITA 🇮🇹 Milan 1"
+    type: relay
+    proxies:
+      - socksyou
+      - ITA 🇮🇹 Milan 1
+  - name: "Nim-ITA 🇮🇹 MilNO udp"
+    type: relay
+    proxies:
+      - socks NO UDP
+      - ITA 🇮🇹 Milan 1      
+  - name: "Nim-GER 🇩🇪 Frankfurt"
+    type: relay
+    proxies:
+      - socksyou
+      - GER 🇩🇪 Frankfurt
+  - name: "Nim-GER 🇩🇪 FrNO udp"
+    type: relay
+    proxies:
+      - socks NO UDP
+      - GER 🇩🇪 Frankfurt      
+  - name: "Nim-USA 🇺🇲 Virginia"
+    type: relay
+    proxies:
+      - socksyou
+      - USA 🇺🇲 Virginia 
+  - name: "Nim-FRA 🇫🇷 France"
+    type: relay
+    proxies:
+      - socksyou
+      - FRA 🇫🇷 France
+  - name: "Nim-LUX 🇱🇺 Luxembourg"
+    type: relay
+    proxies:
+      - socksyou
+      - LUX 🇱🇺 Luxembourg  
+  - name: "Nim-Fin 🇫🇮 Helsinki 2"
+    type: relay
+    proxies:
+      - socksyou
+      - Fin 🇫🇮 Helsinki 2       
+  - name: "Nim-SWN 🇸🇪 Stockholm 2 new"
+    type: relay
+    proxies:
+      - socksyou
+      - SWN 🇸🇪 Stockholm 2 new  
+  - name: "Nim-UAE 🇦🇪 Dubai"
+    type: relay
+    proxies:
+      - socksyou
+      - UAE 🇦🇪 Dubai 
+  - name: "Nim-UAE 🇦🇪 DuNO udp"
+    type: relay
+    proxies:
+      - socks NO UDP
+      - UAE 🇦🇪 Dubai       
+  - name: "Nim-AZR 🇦🇿 Baku1"
+    type: relay
+    proxies:
+      - socksyou
+      - AZR 🇦🇿 Baku1
+  - name: "Nim-AZR 🇦🇿 BaNO udp"
+    type: relay
+    proxies:
+      - socks NO UDP
+      - AZR 🇦🇿 Baku1       
+  - name: "Nim-AUS 🇦🇺 Seydny"
+    type: relay
+    proxies:
+      - socksyou
+      - AUS 🇦🇺 Seydny      
+  - name: "Nim-GER 🇩🇪 Nurenberg 2"
+    type: relay
+    proxies:
+      - socksyou
+      - GER 🇩🇪 Nurenberg 2
+  - name: "Nim-NOR 🇳🇴 Oslo"
+    type: relay
+    proxies:
+      - socksyou
+      - NOR 🇳🇴 Oslo 
+  - name: "Nim-UK 🇬🇧 London new"
+    type: relay
+    proxies:
+      - socksyou
+      - UK 🇬🇧 London new 
+  - name: "Nim-TUR 🇹🇷 Istanbul"
+    type: relay
+    proxies:
+      - socksyou
+      - TUR 🇹🇷 Istanbul 
+  - name: "Nim-TUR 🇹🇷 IsNO udp"
+    type: relay
+    proxies:
+      - socks NO UDP
+      - TUR 🇹🇷 Istanbul 
