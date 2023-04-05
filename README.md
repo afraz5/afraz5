@@ -9,7 +9,7 @@ vless://e2f783c5-d3c5-430e-e690-5d7a875b0464@estonia.nimafraz.ir:27790?type=tcp&
 
 لینک مخصوص همراه اول
 
-vless://95ae7a05-6777-4202-dd0e-2c9f94f4988b@estonia.nimafraz.ir:27790?type=tcp&path=%2F&host=bmi.ir&headerType=http#-y3lnvs
+vless://95ae7a05-6777-4202-dd0e-2c9f94f4988b@estoni2.nimafraz.ir:27790?type=tcp&path=%2F&host=bmi.ir&headerType=http#-y3lnvs
 
 برای خرید جدید به پشتیبان پیام دهید
 
