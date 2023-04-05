@@ -7,6 +7,10 @@ vless://aeeb6372-6979-42db-da52-ecdb4b74fa55@estonia.nimafraz.ir:27790?type=tcp&
 vless://e2f783c5-d3c5-430e-e690-5d7a875b0464@estonia.nimafraz.ir:27790?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-lmk8xm
 
 
+لینک مخصوص همراه اول
+
+vless://95ae7a05-6777-4202-dd0e-2c9f94f4988b@estonia.nimafraz.ir:27790?type=tcp&path=%2F&host=bmi.ir&headerType=http#-y3lnvs
+
 برای خرید جدید به پشتیبان پیام دهید
 
 @Poshtiban_AvNetWork
