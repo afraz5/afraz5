@@ -1,10 +1,12 @@
-vless://19dfe5f6-e6b5-4687-e58c-beb133d23b52@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-kl76m7z
-vless://47d4e45f-1a0d-4b19-b146-dda126d36321@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-xut165gndr
-vless://13e3ab15-ecc8-4f7e-87e9-24ee2d8bec28@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-g1arjab
-vless://106693c7-40e6-43e2-c377-f5adb0c0a6c2@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-0tqtxswwm
-vless://e11e91f1-c891-4963-c3e0-cb78a96b2753@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-d9xdhnnxt
-vless://c508183b-e7c7-43cd-caaf-f80a7ddab8ae@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-oglxuo3gd9
-vless://4f1403b4-441e-414d-ed01-0a24bbb072ec@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-r536x1wc
-vless://0bfa18a6-af97-4ac7-b258-2eb137b4167b@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-rj7ektj
-vless://7d431101-0102-4fa1-d51e-0e5cd00f652b@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-abox99
-vless://be7f2841-73db-455b-887b-16f884db389f@fanland1.nimafraz.ir:11333?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-ri71e5u
+vless://465bc35e-baab-4a17-e332-6e67635803bd@estonia.nimafraz.ir:27790?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-cnj4wtalta
+
+vless://8a780612-d01c-4e6e-aae7-b6df33958cdf@estonia.nimafraz.ir:27790?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-s3kuxaxz7
+
+vless://aeeb6372-6979-42db-da52-ecdb4b74fa55@estonia.nimafraz.ir:27790?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-e2pf10o
+
+vless://e2f783c5-d3c5-430e-e690-5d7a875b0464@estonia.nimafraz.ir:27790?type=tcp&path=%2F&host=www.speedtest.net&headerType=http#-lmk8xm
+
+
+برای خرید جدید به پشتیبان پیام دهید
+
+@Poshtiban_AvNetWork
