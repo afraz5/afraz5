@@ -11,6 +11,10 @@ vless://e2f783c5-d3c5-430e-e690-5d7a875b0464@estonia.nimafraz.ir:27790?type=tcp&
 
 vless://95ae7a05-6777-4202-dd0e-2c9f94f4988b@estoni2.nimafraz.ir:27790?type=tcp&path=%2F&host=bmi.ir&headerType=http#-y3lnvs
 
+لینک جدید
+
+vless://ce750260-398d-42c2-d491-aa63ede61216@es1.abrcloud.shop:27790?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#-8a3j0n8lv
+
 برای خرید جدید به پشتیبان پیام دهید
 
 @Poshtiban_AvNetWork
