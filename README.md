@@ -13,6 +13,18 @@ vless://ce750260-398d-42c2-d491-aa63ede61216@es1.abrcloud.shop:27790?security=no
 دوست گرامی به هیچ وجه لینک رو sms نکن، چون سرور فیلتر میشه، اگه sms  کردی و فیلتر شد دیگه مسئولیتش با من نیس و لینک جدید داده نمیشه
 
 
+دوستان اگه لینکا رو v2rayNG و NapsterV جواب نداد
+
+برا اندروید v2rayHybrid نصب کنید
+
+https://play.google.com/store/apps/details?id=com.v2ray.hybrid
+
+و ایفونیا WingsX
+
+https://apps.apple.com/us/app/wings-x/id6446119727
+
+
+
 برای خرید جدید به پشتیبان پیام دهید
 
 @Poshtiban_AvNetWork
