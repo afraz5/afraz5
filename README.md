@@ -1,46 +1,22 @@
- لینک مخصوص ایرانسل و رایتل
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIi04OGticWU4cWE0IiwNCiAgImFkZCI6ICJtdG4uaXJjZi5zcGFjZSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkY2I3YjU5Yy0zYWEzLTQzM2YtZWJmMC1jNjczZTc5ZjZlNWIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVzMS5hYnJjbG91ZC5zaG9wIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJlczEuYWJyY2xvdWQuc2hvcCIsDQogICJhbHBuIjogIiINCn0=
-
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIi0yMm1icGIiLA0KICAiYWRkIjogIm10bi5pcmNmLnNwYWNlIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjQwMGQzZDA4LWRjM2YtNGZjNy1mMmVlLWQ1ZWY2OTBlMmYxNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZXMxLmFicmNsb3VkLnNob3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-
-
-
-لینک مخصوص همراه اول
-
-vless://9a5b5f05-8a3d-4628-fc4f-c6b1d03ba859@mci.ircf.space:2053?encryption=none&security=tls&sni=es1.abrcloud.shop&type=ws&host=es1.abrcloud.shop&path=%2f#-9rty5ioo
-
-
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIi04OGticWU4cWE0IiwNCiAgImFkZCI6ICJtY2kuaXJjZi5zcGFjZSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkY2I3YjU5Yy0zYWEzLTQzM2YtZWJmMC1jNjczZTc5ZjZlNWIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVzMS5hYnJjbG91ZC5zaG9wIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJlczEuYWJyY2xvdWQuc2hvcCIsDQogICJhbHBuIjogIiINCn0=
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIi1lbmE3b2hqbzEiLA0KICAiYWRkIjogIm1jaS5pcmNmLnNwYWNlIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjVjODQyMzY4LWQyYTctNDc0ZC1lYTk4LWYyZWI5NjRlZTNiOCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZXMxLmFicmNsb3VkLnNob3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-
-
-
-
-لینک جدید
-
-vless://ce750260-398d-42c2-d491-aa63ede61216@es1.abrcloud.shop:27790?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#-8a3j0n8lv
-
-
-
-دوست گرامی به هیچ وجه لینک رو sms نکن، چون سرور فیلتر میشه، اگه sms  کردی و فیلتر شد دیگه مسئولیتش با من نیس و لینک جدید داده نمیشه
-
-
-دوستان اگه لینکا رو v2rayNG و NapsterV جواب نداد
-
-برا اندروید  v2rayHybrid یا SagerNET یا Matsuri نصب کنید 
-
-https://play.google.com/store/apps/details?id=com.v2ray.hybrid
-
-و ایفونیا Fair
-
-
-
-
-
-برای خرید جدید به پشتیبان پیام دهید
-
-@Poshtiban_AvNetWork
+vless://b34cef92-daef-4b46-d514-8115232ad52f@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-9i3wse
+vless://c51a4bd5-6c00-42ba-fc23-ecaa4bbaba49@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-gvecpj
+vless://3fba89b3-c225-4ad0-8569-bb63adfb9a5e@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-6xojvtg8b
+vless://eeab4efc-f6a5-49e7-d621-0f646374316e@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-nsgbxcrg
+vless://0d9ce273-a222-41db-ab3e-158d43b3d7bd@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-sx73xu1ga9
+vless://b772c78b-4151-464a-b4a6-636f0eba90a1@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-tnjsray
+vless://722c9c0f-f00d-4d63-fc08-9570694fbef4@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-3k0j5p7
+vless://9a78b7dc-47a3-447a-e4e4-bfa81fbfdce1@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-e1o75qmy4
+vless://b1a7b83c-47f5-4ebb-ed1e-b33677ec3dc6@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-i0xcdn44c
+vless://f435e5e6-78fe-4102-caf3-ba6215287330@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-0dl74v
+vless://a17dff01-1bc6-47e3-c76a-6b6470cbb214@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-htprw9v1m
+vless://79fb5dac-5f13-446c-8d42-a28f3c5af0d7@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-2n19kr8
+vless://2814087f-151b-4968-afa6-6c5a07a8abde@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-9injmubd92
+vless://2feca4f7-0cf7-441e-e195-7251095902c6@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-g2khjjfa4k
+vless://435d8a95-dabe-46c8-d867-d420137ecd8f@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-vq4rg8g9
+vless://7ce170be-0ed8-4914-f590-3ff0e1aba619@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-7ruillhao
+vless://54629b68-9c40-4920-e24f-6b2b7fee5b6f@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-duamyp
+vless://ca82d890-7bdd-4ba6-ff7e-e686549c3726@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-xfwtxg2yw
+vless://e9bfa582-d8a9-4842-be62-a09f1364b8a4@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-s848lj
+vless://8717cf8c-093e-483b-bba4-98368f80a7fc@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-coo855fmof
+vless://9bfda463-7770-4286-beb1-502ac7d69a59@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-18ekg6
+vless://50f7e6fa-571d-4604-d99b-1bc622069af8@vipserver5.abrcloud.shop:33333?type=tcp&path=%2F&host=bmi.ir&headerType=http#MCI-mnzxp0i1
